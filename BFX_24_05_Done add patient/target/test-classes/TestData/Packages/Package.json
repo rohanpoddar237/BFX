@@ -1,0 +1,42 @@
+{
+	"Search" :
+	[
+		{
+			"Packagename" : "Spa Gold Package",
+			"email address" : "rohanpoddar85@gmail.com",
+			"Expectedpackagename" :"Spa Gold Package",
+			"SearchRecords"  :"rohan poddar",
+		}
+	],
+	
+	"ErrorMessage" :[
+		{
+			"ErrorMessageForLocation" : "Location is required",
+			"ErrorMessageForProduct" : "Products is required",
+			"ErrorMessageForProcedures" : "Procedures is required",	
+			"ErrorMessageForQuantity" : "Quantity is required",
+			"ErrorMessageForVisit" : "Visit is required",
+			"ErrorCount" : "3"
+			
+		}
+	],
+	
+
+	"AddPackage" :[
+		{
+			"PatientName" : "rocky2 Billings2",
+			"PackageName" : "Spa Gold Package",
+			"ExpireMonths" : "12",
+			"PackageDiscount" : "10",
+			"Description" : "Our gold health check up package includes a detailed evaluation of health profile",
+	         "NumberOfVisits" : "4",
+	          "Quantity" : "5",         	
+			"OriginalPrice" : "100",
+			"PatientSpecificName" : "rocky2 Billings2",
+			"Discount" : "1"
+		}
+	],
+	
+	
+}
+

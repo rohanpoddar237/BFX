@@ -1,0 +1,28 @@
+{
+	"Login Page" :
+	[
+		{
+			"Username" : "785Admin",
+			"Password" : "B00mfx@30",
+			"BlankUsername" : "",
+			"BlankPassword" : "",
+			"ExpectedUsernameMandatoryError" : "Username field is required",
+			"ExpectedPasswordMandatoryError" : "Password field is required",
+			"InvalidUsername" : "InvalidUser",
+			"InvalidPassword" : "InvalidPassword",
+			"ExpectedInvalidCredentialsError" : "Please enter valid username and password",
+			"URL": "https://bfxnonprod-cu.boomerangfxalpha.com/staging-pms/",
+			"UsernameM" : "MarketingAdmin",
+			"PasswordM" : "B00mfx@30" 
+		}
+	],
+	"Logout Page" :
+	[
+		{
+			"Username" : "785Admin",
+			"Password" : "B00mfx@30",
+			"VerifyLogin":"QUOTES"
+		}
+	],
+	
+}

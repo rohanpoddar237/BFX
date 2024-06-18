@@ -1,0 +1,134 @@
+{
+	"Search" :
+	[
+		{
+			"patient name" : "rohan",
+			"email address" : "rohanpoddar85@gmail.com",
+			"Expectedpatientemail" :"rohanpoddar85@gmail.com",
+			"SearchRecords"  :"rohan poddar",
+		}
+	],
+	
+	"ErrorMessage" :[
+		{
+			"ErrorMessageForReferralSourceDropdown" : "Referral Source is required",
+			"ErrorMessageForReferrerDropdown" : "Referrer is required",
+			"ErrorMessageForSalutation" : "Salutation is required",
+			"ErrorMessageForFirstName" : "First Name is required",
+			"ErrorMessageForLastName" : "Last Name is required",
+			"ErrorMessageForGender" : "Gender is required",
+			"ErrorMessageForDateOfBirth" : "Invalid date",
+			"ErrorMessageForEmail" : "Email is required",
+			"ErrorMessageForPrimaryPhoneType" : "Primary Phone Type is required",
+			"ErrorMessageForPrimaryPhoneNumber" : "Phone is required",
+			"ErrorMessageForLocation" : "Clinic Location is required",
+			"ErrorMessageForPhysician" : "Physician is required",
+			"ErrorMessageForProcedure" : "Procedure is required",
+			"ErrorCount" : "8"
+		}
+	],
+	
+	"EditPatient" :[
+		{
+		    "Patientname": "Roxane",
+			"PatientsFirstName" : "Roxane",
+			"PatientsLastName" : "Billings2",
+			"NewPatientsFirstName" : "balvinder",
+			"NewPatientsLastName" : "Singh",
+			"CalendarIndex" : "1",
+			"BirthYear" : "2010",
+			"BirthDay" : "20",
+			"PatientEmail" : "wilsonroggerbilling@gmail.com",
+			"DuplicatePatientEmail" : "bal@gmail.com",
+			"PrimaryPhoneNumber" : "1200334444",
+			"PrimaryPhoneNumber1" : "9999999999",
+			"DuplicatePrimaryPhoneNumber" : "4489766766",
+			"AlternatePhoneNumber1" : "9689912121",
+			"AlternatePhoneNumber2" : "1212160438",
+			"PatientAddress" : "Texas,United States",
+			"PostalCode" : "781109",
+			"City" : "White Plains",
+			"StateProvince" : "New York",
+			"CardNumber" : "3241123441234567",
+			"Country" : "United States",
+			"ExpiryYear" : "2030",
+			"ExpiryMonth" : "Jun",
+			"HealthCardNumber" : "ABC9876054",
+			"HealthCardVersion" : "AK123",
+			"AdditionalInformation" : "Additional information Added",
+			"DuplicatePatientRecordPopuMessage" : "DUPLICATE RECORD(S) FOUND",
+			"PotentialDuplicatePatientRecordPopupMessage" : "POTENTIAL DUPLICATE RECORD(S) FOUND",
+			"PatientAddedPopuMessage" : "Patient record has been created!",
+			"PatientAddedWithAllInformationPopuMessage" : "Patient Updated Successfully",
+			"BasicInformationSection":"BASIC INFORMATION",
+			"ContactAndAddressSection":"CONTACT & ADDRESS",
+			"CardDetailsSection":"CARD & INSURANCE DETAILS",
+			"NotesSection":"NOTES",
+			"PageTitle":"Edit Patient",
+			"UpdateSuccesfullMessage":"Patient Updated Successfully"
+			
+		}
+	],
+	
+	
+	"AddNewPatient" :[
+		{
+			"PatientsFirstName" : "avii",
+			"PatientsLastName" : "kaur",
+			"NewPatientsFirstName" : "nnnn",
+			"NewPatientsLastName" : "Automation",
+	         "Calendar" : "02022023",	
+			"CalendarIndex" : "1",
+			"BirthYear" : "2018",
+			"BirthDay" : "10",
+			"PatientEmail" : "test124@testmail.com",
+			"DuplicatePatientEmail" : "bal@gmail.com",
+			"PrimaryPhoneNumber" : "12",
+			"PrimaryPhoneNumber1" : "8319790632",
+			"DuplicatePrimaryPhoneNumber" : "44897543761",
+			"AlternatePhoneNumber1" : "9689960436",
+			"AlternatePhoneNumber2" : "9689960438",
+			"PatientAddress" : "Castroville,Texas,United States",
+			"PostalCode" : "780009",
+			"City" : "Castroville",
+			"StateProvince" : "Texas",
+			"CardNumber" : "1234123565321478",
+			"Country" : "United States",
+			"ExpiryYear" : "2028",
+			"ExpiryMonth" : "May",
+			"HealthCardNumber" : "ABC123123456",
+			"HealthCardVersion" : "AB1",
+			"AdditionalInformation" : "Additional information Added",
+			"DuplicatePatientRecordPopuMessage" : "DUPLICATE RECORD(S) FOUND",
+			"PotentialDuplicatePatientRecordPopupMessage" : "POTENTIAL DUPLICATE RECORD(S) FOUND",
+			"PatientAddedPopuMessage" : "Patient record has been created!",
+			"PatientAddedWithAllInformationPopuMessage" : "Patient Updated Successfully",
+			"PageTitle":"Add Patient",
+			"PatientFirstChar":"s",
+			"PatientSecChar":"a",
+			"PatientThirdtChar":"c",
+			"NameOfInsured":"c",
+			"Month":"May",
+			"NameOfInsured":"ABC",
+			"PatientRelationshipToInsured":"Cosin",
+			"PrimaryProviderPhoneNumber":"1213132154",
+			"PrimaryInsuranceProviderName":"United Health",
+			"PrimaryPolicyID":"5467",
+			"PrimaryPlanID":"8756",
+			"PrimaryGroupNumber":"8756",
+			"SecInsuranceProviderName":"United Urban",
+			"SecProviderPhoneNumber":"1213132159",
+			"SecGroupNumber":"65432234",
+			"SecPolicyID":"8796",
+			"SecPlanID":"3432",
+			"Year":"2038",
+			"Occupation":"Businesss",
+			"SalaryRange":"450000-900000",
+			"ConcernAndGoal":"Added Concerns And Goals",
+			"InsuranceCalendarIndex":"2"
+		}
+	],
+	
+	
+}
+
